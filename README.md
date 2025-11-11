@@ -18,3 +18,6 @@ Use the insights to adjust habits and improve well-being
 Add AI-based wellness recommendations
 Integrate wearable data
 Weekly email summaries
+
+## Streamlit Link
+https://annbridget-digital-bala-high-usage-device-prediction-app-a6kznz.streamlit.app/
